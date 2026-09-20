@@ -1,0 +1,90 @@
+{
+  "patch_version": "1.0.3",
+  "base_version": "1.0.2",
+  "step": 3,
+  "source_attachment": "game-copilot-1.0.0 (3)(1).zip",
+  "data_schema_changed": false,
+  "storage_directory": "%APPDATA%\\GameCopilot1",
+  "files": [
+    {
+      "path": "ADAPTER_PROTOCOL.md",
+      "base_sha256": "62734cee06cc7a6039a6d8c65e1508ce8e79898ca51c7b3523c80f1151b65e26",
+      "sha256": "ce1f656e98c27f5913df96bc836b3f7602660fbfd8daa1fddae448c5ae9cd4af"
+    },
+    {
+      "path": "CHANGELOG.md",
+      "base_sha256": "6298c02e0497bc20f224d12d06a9c428bf9e3a10060aa7728c8cbfe568027cdf",
+      "sha256": "7059531e0b154d67b19a89df759782417e1f26a8878bdeb87398e86036c2911d"
+    },
+    {
+      "path": "PATCH_3_README.md",
+      "base_sha256": null,
+      "sha256": "04da7d1ee28c022a098cbaf6f6e7e35397539840072668bd2a6de7e13884f26a"
+    },
+    {
+      "path": "README.md",
+      "base_sha256": "e37f74b0c99cd0f03751e3c699e82fbd48afe7bd5fe3fd92591efc657e3c0d3b",
+      "sha256": "e0c5d56d6bdea41604f520f663f3ced562cc0df2370e15c942a2c302aa59746c"
+    },
+    {
+      "path": "TASK_CANCEL_PROTOCOL.md",
+      "base_sha256": null,
+      "sha256": "64405bf9fd559caecf7ce37db05432b37a45caeb1f9eff7ffddd3db80ce50fe6"
+    },
+    {
+      "path": "TASK_MANAGER.md",
+      "base_sha256": "0ab0ee1fc7998ba4916a86d837ff8229e954f94ab32d9f4957ff0bb5c6975f24",
+      "sha256": "512f9c56164b6c8dee7d4474c9fa18ac9a47c6499c4a857513bf2b9d1b648913"
+    },
+    {
+      "path": "copilot/__init__.py",
+      "base_sha256": "6372d27d18a84a5db1721ef4a6afd42e5bf21025f212d37792b55a59e1b26b19",
+      "sha256": "da997374411bdb814b8c4d88d97c8105c2443d858771c34be1282d2c2ffa7ab8"
+    },
+    {
+      "path": "copilot/adapters.py",
+      "base_sha256": "fdf9d0d152e43c3b7b97e32a2e0441bb59b3b184e3d9a6e71d99bc16d691f4d0",
+      "sha256": "ed6ade79373af582836000d1f2277cf08f1054f7674bae2029a6601c0fb06f96"
+    },
+    {
+      "path": "copilot/app.py",
+      "base_sha256": "bc1416e92db5ee04ca572d606b9c5cc7ccf01ba32e2635201268260d88e03033",
+      "sha256": "af2da957f8da757dfe8b02427ccc3f6e25b1502724a40cf4b8c37403ed4f84b6"
+    },
+    {
+      "path": "copilot/capabilities.py",
+      "base_sha256": "62bc5f2e340ffc72c11fa6cc59731ab67b739c06c24ed71f384284c0a5b089d4",
+      "sha256": "eb930e1e25035c2622843ebbfc6daaa2331e1b94075ae74f18a486ee3cc80b6c"
+    },
+    {
+      "path": "copilot/engine.py",
+      "base_sha256": "9dc33f835693732f1ba7b42f003075f98395a9b2045d05c3b1184ed8773e5fce",
+      "sha256": "f89607c2f54fdd00aa36604f99f95662884cec8d08ee574c112fdccea98f0576"
+    },
+    {
+      "path": "copilot/task_control.py",
+      "base_sha256": null,
+      "sha256": "92887502c76f6bc6568ad4872cb7f8e3f700b78c3b07bd0a0d38bfa0aba118db"
+    },
+    {
+      "path": "copilot/task_demo.py",
+      "base_sha256": null,
+      "sha256": "2e9a44c8dc61c10382481d77f7c7c038d2ea1fb4b8d96f54acea40cc087c9fcb"
+    },
+    {
+      "path": "examples/cancel_bridge.py",
+      "base_sha256": null,
+      "sha256": "6d3cfe95f59ff4de5150b55e692b7d236569150bc790502d4e14c722295dbda3"
+    },
+    {
+      "path": "examples/cancel_disconnect_demo.py",
+      "base_sha256": null,
+      "sha256": "6e95aa2913492befb7daec80cd537da5daeb9a29f302521ed3c41b6c8d2f2f79"
+    },
+    {
+      "path": "tests/test_cancel_disconnect.py",
+      "base_sha256": null,
+      "sha256": "3ef67df2eee7b0341dc68b0cbd7b7885f23b142810d4d793b30ce7660131bbab"
+    }
+  ]
+}
